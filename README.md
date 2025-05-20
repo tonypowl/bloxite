@@ -31,4 +31,3 @@ Useful for students, professionals, or anyone looking to stay focused by limitin
 
     Note: Requires admin access to modify /etc/hosts.
 
-Developed by: Antony Shibu Paul
