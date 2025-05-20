@@ -1,4 +1,4 @@
-*## Bloxite – Website Blocking Desktop App (Python + Tkinter)
+# **Bloxite – Website Blocking Desktop App (Python + Tkinter)
 
 Bloxite is a simple GUI-based productivity tool built with Python and Tkinter. It allows users to block distracting websites (like YouTube, Instagram, Reddit, etc.) for a specified time period by editing the system's /etc/hosts file.
 Features:
